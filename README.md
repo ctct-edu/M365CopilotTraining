@@ -13,11 +13,11 @@
 
 ## ファイル構成
 
-- `lab-manuals/`: 受講者向け Markdown 手順書
-- `sample-data/word-powerpoint/`: Word と PowerPoint の Copilot で参照する提案素材
-- `sample-data/excel/`: Excel の Copilot で分析する案件・活動データ
-- `sample-data/outlook/`: Outlook 演習で使用するメール素材
-- `sample-data/copilot-studio/`: Copilot Studio エージェントのナレッジソース
+- `lab-manuals/`: 各演習の手順書が格納されています
+- `sample-data/word-powerpoint/`: Word と PowerPoint の Copilot で使用するサンプルデータ
+- `sample-data/excel/`: Excel の Copilot で分析する案件・活動のサンプルデータ
+- `sample-data/outlook/`: Outlook 演習で使用するメール素材のサンプルデータ
+- `sample-data/copilot-studio/`: Copilot Studio エージェントのナレッジソースとなるサンプルデータ
 
 ## 演習順序
 
